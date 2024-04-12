@@ -1,0 +1,113 @@
+body, html
+{
+    height: 100%;
+    margin: 0%;
+}
+
+#space
+{
+    height: 10%;
+    background-color: white;
+
+    display: flex;
+}
+#header_div
+{
+    height: 60%;
+    background-color: white;
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    #header_div img
+    {
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+    }
+#info_div
+{
+    height: 50%;
+    background-color: aliceblue;
+
+    display: flex;
+}
+#w1
+{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+
+    object-fit: cover;
+}
+#w2
+{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+#hunterstyle_div
+{
+    height: 50%;
+    background-color: azure;
+
+    display: flex;
+}
+#x1
+{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+
+    object-fit: cover;
+}
+#x2
+{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+#weapons_div
+{
+    height: 50%;
+    background-color: aliceblue;
+
+    display: flex;
+}
+#ws1
+{
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+
+    object-fit: cover;
+}
+#ws2
+{
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+}
+#monster_div
+{
+    height: 50%;
+    background-color: aliceblue;
+
+    display: flex;
+}
+#m1
+{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+
+    object-fit: cover;
+}
+#m2
+{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+
+#footer_div
+{
+    height: 50%;
+    background-color: blue;
+
+    display: flex;
+}
